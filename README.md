@@ -48,3 +48,9 @@ python api.py
 python index.py
 ```
 To get the visulaization on the localhost copy the url from terminal.
+
+
+
+For more deatails please follow the documents :
+[Dashboard Documentation](https://github.com/janamoumita1997/Neunam_battery_health_dashboard/blob/main/Battery%20Health%20Status_%20%20Documentation.pdf)
+
