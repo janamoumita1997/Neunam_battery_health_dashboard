@@ -47,4 +47,4 @@ python api.py
 ```
 python index.py
 ```
-
+To get the visulaization on the localhost copy the url from terminal.
