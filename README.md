@@ -54,3 +54,8 @@ To get the visulaization on the localhost copy the url from terminal.
 For more deatails please follow the documents :
 [Dashboard Documentation](https://github.com/janamoumita1997/Neunam_battery_health_dashboard/blob/main/Battery%20Health%20Status_%20%20Documentation.pdf)
 
+
+
+
+
+[Screencast from 26-07-22 10_56_51 PM IST.webm](https://user-images.githubusercontent.com/81233305/181073009-52d24ed4-5d6e-4d5c-9225-10ac3753a8a1.webm)
